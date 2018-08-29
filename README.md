@@ -2,6 +2,8 @@
 
 Starter package for node module development
 
+[![Build Status](https://travis-ci.org/jamesgfc/jw-node-package-starter.svg?branch=master)](https://travis-ci.org/jamesgfc/jw-node-package-starter)
+
 # Features
 
 * ES6+ with babel
